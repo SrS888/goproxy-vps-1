@@ -1,1 +1,1 @@
- /goproxy-vps/goproxy-vps $CONFIG_FILE_URL -logtostderr -v 3
+ /prom-vps/prom-vps $CONFIG_FILE_URL -logtostderr -v 3
