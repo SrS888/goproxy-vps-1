@@ -1,4 +1,4 @@
-# deploy goproxy-vps to OPENSHIFT 3 online starter
+###deploy goproxy-vps to OPENSHIFT 3 online starter
 
 1. secure route TLS Termination: Passthrough, e.g. yourhostname.1d35.starter-us-east-1.openshiftapps.com
 
